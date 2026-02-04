@@ -1,0 +1,11 @@
+ro.product.odm.model=23124RN87G
+ro.product.odm.name=atmos_global
+persist.radio.multisim.config=dsds
+persist.vendor.radio.msimmode=dsds
+ro.vendor.radio.max.multisim=dsds
+ro.telephony.sim.count=2
+telephony.active_modems.max_count=2
+persist.vendor.mims_support=2
+persist.vendor.radio.smart.data.switch=1
+ro.vendor.mtk_disable_cap_switch=0
+ro.vendor.mtk_data_config=1
